@@ -1,0 +1,13 @@
+    # React
+    sustainablenscom/node_modules/
+    sustainablenscom/build/
+    *.log
+
+    # Terraform
+    **/.terraform/
+    *.tfstate
+    *.tfstate.backup
+    *.tfvars
+
+    # Misc
+    *.DS_Store
